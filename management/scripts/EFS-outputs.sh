@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# env variables
+# input variables
 cluster_name=$1
 
 vpc_id=$(aws eks describe-cluster \

@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 
-# env variables
+# input variables
 cluster_name=$1
 
 eksctl create iamserviceaccount \

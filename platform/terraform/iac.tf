@@ -1,3 +1,3 @@
 module "eks_terrafotm" {
-  source = "git@github.com:langhae/platform-repository.git"
+  source = "git@github.com:langhae/platform-repository.git//ref=main"
 }

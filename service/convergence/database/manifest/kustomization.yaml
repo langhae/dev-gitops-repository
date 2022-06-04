@@ -1,0 +1,2 @@
+resources:
+- git@github.com:langhae/service-repository.git//convergence/database/manifest?ref=main

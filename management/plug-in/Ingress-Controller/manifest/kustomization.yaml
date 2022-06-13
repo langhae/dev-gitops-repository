@@ -1,2 +1,2 @@
 resources:
-- git@github.com:langhae/management-repository.git//ingress_controller?ref=main
+- git@github.com:langhae/dev-management-repository.git//ingress_controller?ref=main

@@ -1,2 +1,2 @@
 resources:
-- git@github.com:langhae/management-repository.git//cluster_autoscaler?ref=main
+- git@github.com:langhae/dev-management-repository.git//cluster_autoscaler?ref=main

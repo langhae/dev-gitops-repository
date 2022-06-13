@@ -1,9 +1,0 @@
-resources:
-- git@github.com:langhae/service-repository.git//convergence/database/manifest?ref=main
-secretGenerator:
-- name: db-envs
-  literals:
-  - MYSQL_DATABASE=input_your_value
-  - MYSQL_USER=input_your_value
-  - MYSQL_PASSWORD=input_your_value
-  - MYSQL_ROOT_PASSWORD=input_your_value

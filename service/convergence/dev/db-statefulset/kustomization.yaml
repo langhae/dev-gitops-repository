@@ -1,0 +1,2 @@
+resources:
+- git@github.com:langhae/dev-service-repository.git//convergence/dev/manifast/db-statefulset?ref=main

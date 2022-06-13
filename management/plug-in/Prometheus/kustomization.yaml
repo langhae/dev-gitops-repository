@@ -1,2 +1,2 @@
 resources:
-- git@github.com:langhae/management-repository.git//prometheus?ref=main
+- git@github.com:langhae/dev-management-repository.git//prometheus?ref=main

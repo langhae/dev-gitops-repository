@@ -1,2 +1,2 @@
 resources:
-- git@github.com:langhae/management-repository.git//ebs_csi_driver/manifests?ref=main
+- git@github.com:langhae/dev-management-repository.git//ebs_csi_driver/manifests?ref=main

@@ -1,0 +1,2 @@
+resources:
+- git@github.com:langhae/dev-service-repository.git//convergence/pro/manifast/serviceaccount?ref=main

@@ -1,2 +1,2 @@
 resources:
-- git@github.com:langhae/management-repository.git//ebs_csi_driver/overlays/stable/ecr?ref=main
+- git@github.com:langhae/dev-management-repository.git//ebs_csi_driver/overlays/stable/ecr?ref=main

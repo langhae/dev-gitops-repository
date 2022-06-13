@@ -1,2 +1,0 @@
-resources:
-- git@github.com:langhae/service-repository.git//convergence/tensorflow/manifest?ref=main
